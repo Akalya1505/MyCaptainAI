@@ -1,4 +1,4 @@
-n=int(input("Enter the number of elements in the list"))
+n=int(input("Enter the number of elements in the series"))
 a=0
 b=1
 print(a)
